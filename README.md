@@ -55,7 +55,7 @@ php-mysqli/
 
 Bertanggung jawab pada perancangan database, pembuatan tabel, serta konfigurasi dan pengujian koneksi database menggunakan PHP dan MySQL.
 
-### Muhammad Wahib Iqbal Marzuq ( @Iqbalacc )
+### Muhammad Wahib Iqbal Marzuq ( https://github.com/Iqbalacc )
 
 Bertanggung jawab pada implementasi fitur CRUD, upload foto mahasiswa, validasi data, serta perancangan tampilan antarmuka menggunakan Bootstrap 5.
 
